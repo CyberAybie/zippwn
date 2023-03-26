@@ -1,5 +1,5 @@
 # ZIPPWN
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+![My Image](assets/main.png)
 <br>
 by CyberAybie
 
@@ -23,13 +23,31 @@ A command line based tool that asks for a dictionary file and performs a diction
 
 ### Executing program
 
+#### Step 1:
+
 * Have the python file, dictionary file and zip file in a directory
 * open a terminal in that directory
 
 ```
 python3 zippwn.py
 ```
+![My Image](assets/main.png)
 
+#### Step 2:
+ * Type in the zip file name and dictionary file name
+ 
+ ![My Image](assets/enter.png)
+ 
+ #### Step 3:
+ * Dictionary Attack will begin
+ 
+ ![My Image](assets/execute.png)
+
+ #### Step 4:
+ * Results
+ 
+ ![My Image](assets/result.png)
+ 
 ## Author
  
 Abrar (CyberAybie is my tag) [See my Linkedin](https://www.linkedin.com/in/cyberaybie/)
